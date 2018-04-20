@@ -37,3 +37,5 @@ Temporary Items
 
 
 # End of https://www.gitignore.io/api/macos,visualstudiocode
+# ignore out/... , foo/out/... ...
+out
